@@ -1,6 +1,6 @@
 # Build TurBoTse's Padavan 4.4 Kernel
 
-name: Custom Nano-Plugins Build
+name: Custom Build
 
 on:
   workflow_dispatch:
